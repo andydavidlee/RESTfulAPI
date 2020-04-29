@@ -1,0 +1,23 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "Exercise on Restful API's in web programming subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydavidlee/RESTfulAPI.git"
+  },
+  "author": "Andrew Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydavidlee/RESTfulAPI/issues"
+  },
+  "homepage": "https://github.com/andydavidlee/RESTfulAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
